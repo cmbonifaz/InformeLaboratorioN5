@@ -57,6 +57,17 @@ Volvemos V=0 las fuentes del circuito
 
 ![1](https://user-images.githubusercontent.com/84586968/126592042-87b73928-103b-4c5f-9cc4-8fb81c1871f4.PNG)
 
+**Calculamos RTh**
+
+![3](https://user-images.githubusercontent.com/84586968/126592044-213d5722-6e7a-4574-bfbb-1fe532ad160c.PNG)
+
+![4](https://user-images.githubusercontent.com/84586968/126592045-15f129b6-c1e8-4ffc-bd3b-0f518a438d8e.PNG)
+
+**Calculamos VTh**
+
+![5](https://user-images.githubusercontent.com/84586968/126592035-0772cea9-5384-4214-96c4-30f944294dc3.PNG)
+![6](https://user-images.githubusercontent.com/84586968/126592039-4386f7c0-72f5-41cf-9d87-42c90cda0c96.PNG)
+
 #### 5. VIDEO
 
 #### 6. CONCLUSIONES 
