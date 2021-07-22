@@ -42,7 +42,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Tabla 3.1**
 
+![3 1](https://user-images.githubusercontent.com/84586968/126591260-12e7eb42-22b4-46d3-a546-76d20a49d89c.PNG)
+
 **Tabla3.2**
+
+![3 2](https://user-images.githubusercontent.com/84586968/126591255-7877023c-e9f8-49f9-8f02-fdaeb18b77c7.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
