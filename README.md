@@ -51,11 +51,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 Separamos el circuito de R5
 
-![0](https://user-images.githubusercontent.com/84586968/126591678-d8e2a2f1-e7b3-498e-a73d-dcbd1535f1bb.png)
+
 
 Volvemos V=0 las fuentes del circuito
 
-![1](https://user-images.githubusercontent.com/84586968/126591679-e0b1c641-5453-449e-9bb6-0c2967a35cd9.png)
+
 
 #### 5. VIDEO
 
