@@ -61,7 +61,11 @@ Volvemos V=0 las fuentes del circuito
 
 ![3](https://user-images.githubusercontent.com/84586968/126592044-213d5722-6e7a-4574-bfbb-1fe532ad160c.PNG)
 
+![R1](https://user-images.githubusercontent.com/84586968/126592613-a723d3df-8422-4568-adcd-9f672a1b629f.PNG)
+
 ![4](https://user-images.githubusercontent.com/84586968/126592045-15f129b6-c1e8-4ffc-bd3b-0f518a438d8e.PNG)
+
+![R2](https://user-images.githubusercontent.com/84586968/126592614-3252427a-ef5c-43fa-837c-c4327412a4f9.PNG)
 
 **Calculamos VTh**
 
@@ -71,13 +75,20 @@ Sumamos las fuentes
 
 Encontremos la corriente total
 
+![V1](https://user-images.githubusercontent.com/84586968/126592615-44b0e59b-b9b8-4cdb-a714-e6fb882e0234.PNG)
+
 Calcularemos V3 mediante divisor de corriente
+
+![V2](https://user-images.githubusercontent.com/84586968/126592616-98528b8b-5bc1-48cd-b86c-6c509ff68709.PNG)
 
 **Circuito Equivalente Thevenin**
 
 ![6](https://user-images.githubusercontent.com/84586968/126592039-4386f7c0-72f5-41cf-9d87-42c90cda0c96.PNG)
 
 Corriente  y Voltaje en R5
+
+![C1](https://user-images.githubusercontent.com/84586968/126592618-687e5219-0924-4fd0-b2d0-0cbd570bf214.PNG)
+
 
 #### 5. VIDEO
 
