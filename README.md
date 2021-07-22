@@ -65,6 +65,8 @@ Volvemos V=0 las fuentes del circuito
 
 **Calculamos VTh**
 
+Sumamos las fuentes
+
 ![5](https://user-images.githubusercontent.com/84586968/126592035-0772cea9-5384-4214-96c4-30f944294dc3.PNG)
 
 Encontremos la corriente total
