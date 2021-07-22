@@ -49,6 +49,10 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![3 2](https://user-images.githubusercontent.com/84586968/126591255-7877023c-e9f8-49f9-8f02-fdaeb18b77c7.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+Separamos el circuito de R5
+
+Volvemos V=0 las fuentes del circuito
+
 
 #### 5. VIDEO
 
