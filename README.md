@@ -21,6 +21,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 3.2 Arme el circuito que se muestra
 
+![circuitoo](https://user-images.githubusercontent.com/84586968/126590916-5100025d-cc04-4330-a8b4-ea2c598b39d6.PNG)
+
 3.3 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 3.2.
 
 3.4 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 3.1.
