@@ -49,6 +49,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 ![3 2](https://user-images.githubusercontent.com/84586968/126591255-7877023c-e9f8-49f9-8f02-fdaeb18b77c7.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
 Separamos el circuito de R5
 
 ![0](https://user-images.githubusercontent.com/84586968/126592041-91cbfd14-7300-41e2-ab21-3af9dbd045f4.png)
@@ -88,6 +89,10 @@ Calcularemos V3 mediante divisor de corriente
 Corriente  y Voltaje en R5
 
 ![C1](https://user-images.githubusercontent.com/84586968/126592618-687e5219-0924-4fd0-b2d0-0cbd570bf214.PNG)
+
+**Calculo del Error**
+
+![error](https://user-images.githubusercontent.com/84586968/126593360-8557c932-1f3a-46ef-8b6b-888c5a36e195.PNG)
 
 
 #### 5. VIDEO
