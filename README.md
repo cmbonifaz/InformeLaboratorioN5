@@ -66,6 +66,7 @@ Volvemos V=0 las fuentes del circuito
 **Calculamos VTh**
 
 ![5](https://user-images.githubusercontent.com/84586968/126592035-0772cea9-5384-4214-96c4-30f944294dc3.PNG)
+
 ![6](https://user-images.githubusercontent.com/84586968/126592039-4386f7c0-72f5-41cf-9d87-42c90cda0c96.PNG)
 
 #### 5. VIDEO
