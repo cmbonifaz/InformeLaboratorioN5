@@ -112,5 +112,7 @@ Corriente  y Voltaje en R5
 
 • Se demostro como actua un circuito cuando usamos el teorema por lo que se compruba su efectividad.
 
+• En un circuito al aplicar el teorema de Thévenin para calcular la resistencia se debe hacer un cortocircuito a las fuentes de voltaje y para las fuentes de corriente se debe reemplazar un circuito abierto. 
+
 
 #### 7. BIBLIOGRAFÍA
