@@ -118,3 +118,9 @@ Corriente  y Voltaje en R5
 
 
 #### 7. BIBLIOGRAFÍA
+
+carakenio73. (10 de Noviembre de 2019). dade.much.com. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+
+Teorema.Top. (s.f.). Teorema.Top. Obtenido de https://www.teorema.top/teorema-de-thevenin/
+
+
