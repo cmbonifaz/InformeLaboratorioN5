@@ -46,11 +46,11 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Tabla 3.1**
 
-![3 1](https://user-images.githubusercontent.com/84586968/126591260-12e7eb42-22b4-46d3-a546-76d20a49d89c.PNG)
+![3 1](https://user-images.githubusercontent.com/84586968/126732655-6cfb5c9b-b8ab-48b9-a9e8-52d5ae3f551c.PNG)
 
 **Tabla3.2**
 
-![3 2](https://user-images.githubusercontent.com/84586968/126591255-7877023c-e9f8-49f9-8f02-fdaeb18b77c7.PNG)
+![3 2](https://user-images.githubusercontent.com/84586968/126732660-46643729-35f3-4640-9d62-a5a3a81b2462.PNG)
 
 #### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -70,7 +70,7 @@ Volvemos V=0 las fuentes del circuito
 
 ![4](https://user-images.githubusercontent.com/84586968/126592045-15f129b6-c1e8-4ffc-bd3b-0f518a438d8e.PNG)
 
-![R2](https://user-images.githubusercontent.com/84586968/126592614-3252427a-ef5c-43fa-837c-c4327412a4f9.PNG)
+![R2](https://user-images.githubusercontent.com/84586968/126732802-864a61b7-b979-452c-abfd-6c75b10beace.PNG)
 
 **Calculamos VTh**
 
@@ -88,15 +88,16 @@ Calcularemos V3 mediante divisor de corriente
 
 **Circuito Equivalente Thevenin**
 
-![6](https://user-images.githubusercontent.com/84586968/126592039-4386f7c0-72f5-41cf-9d87-42c90cda0c96.PNG)
+![6](https://user-images.githubusercontent.com/84586968/126732805-72ffcdc9-353b-473e-99b6-722f3ae5d369.PNG)
 
 Corriente  y Voltaje en R5
 
-![C1](https://user-images.githubusercontent.com/84586968/126592618-687e5219-0924-4fd0-b2d0-0cbd570bf214.PNG)
+![c1](https://user-images.githubusercontent.com/84586968/126732818-5841a82d-d5f5-455b-9927-f8c38dcd46f3.PNG)
 
 **Calculo del Error**
 
-![error](https://user-images.githubusercontent.com/84586968/126593360-8557c932-1f3a-46ef-8b6b-888c5a36e195.PNG)
+![error](https://user-images.githubusercontent.com/84586968/126732822-caed35c5-71a1-411d-9b4e-7e32813255aa.PNG)
+
 
 
 #### 5. VIDEO
