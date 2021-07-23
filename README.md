@@ -8,13 +8,14 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 **Docente:** Ing. Darwin Alulema
 
-**Tema:** 
+**Tema:** TEOREMA DE THEVENIN
 
 #### 1. OBJETIVOS 
 
 • Analizar el Teorema de Thevenin y determinar un circuito equivalente en cualquier red resistiva.
 
 • Comparar ambos circuitos para demostrar el teorema de Thevenin.
+
 #### 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85208164/126564281-8aa0e3a6-078e-45c0-ac6a-da8469a56989.png)
@@ -102,6 +103,8 @@ Corriente  y Voltaje en R5
 
 
 #### 5. VIDEO
+
+[Simulación de Circuito - Laboratorio N°5](https://youtu.be/bVro6s2FmYk "Simulación de Circuito - Laboratorio N°5")
 
 #### 6. CONCLUSIONES 
 
