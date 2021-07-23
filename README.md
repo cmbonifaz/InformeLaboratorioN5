@@ -16,6 +16,8 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 
 • Comparar ambos circuitos para demostrar el teorema de Thevenin.
 
+• Realizar mediciones aplicando el teorema de Thévenin para darnos cuenta de que el resultado es el mismo si utilizamos el análisis matemático y el experimental.
+
 #### 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85208164/126564281-8aa0e3a6-078e-45c0-ac6a-da8469a56989.png)
