@@ -13,6 +13,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 1. OBJETIVOS 
 
 • Analizar el Teorema de Thevenin y determinar un circuito equivalente en cualquier red resistiva.
+
 • Comparar ambos circuitos para demostrar el teorema de Thevenin.
 #### 2. MARCO TEÓRICO 
 
@@ -106,6 +107,7 @@ Corriente  y Voltaje en R5
 
 • Se pudo obtener los resultados experimentalmente y teóricamente de los circuitos, a través del teorema de Thévenin
 
+• Se demostro como actua un circuito cuando usamos el teorema por lo que se compruba su efectividad.
 
 
 #### 7. BIBLIOGRAFÍA
