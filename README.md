@@ -13,7 +13,7 @@ Christian Bonifaz, Jean Jacome, Kevin Sandoval
 #### 1. OBJETIVOS 
 
 • Analizar el Teorema de Thevenin y determinar un circuito equivalente en cualquier red resistiva.
-
+• Comparar ambos circuitos para demostrar el teorema de Thevenin.
 #### 2. MARCO TEÓRICO 
 
 ![image](https://user-images.githubusercontent.com/85208164/126564281-8aa0e3a6-078e-45c0-ac6a-da8469a56989.png)
